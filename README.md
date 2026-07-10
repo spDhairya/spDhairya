@@ -667,25 +667,6 @@ gantt
 
 ---
 
-## 🌍 Open Source Contributions
-
-<details>
-<summary><b>Projects I've contributed to</b></summary>
-
-<br/>
-
-| Project | Contribution | Status | Link |
-|---------|-------------|--------|------|
-| [TODO: Add OSS project] | [TODO: What you contributed] | ✅ Merged | [PR link] |
-| [TODO: Add OSS project] | [TODO] | 🔄 In Review | [PR link] |
-| [TODO: Add OSS project] | [TODO] | 📝 Planned | |
-
-*I believe that reading open source code is one of the most underrated learning techniques. Contributing is even better.*
-
-</details>
-
----
-
 ## 🗺 Repository Navigator
 
 > A map of repositories I maintain, organized by domain.
