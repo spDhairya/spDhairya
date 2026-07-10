@@ -358,24 +358,6 @@ graph TD
 
 ---
 
-## 🎥 Conference Talks
-
-<details>
-<summary><b>Talks I've given or am preparing</b></summary>
-
-<br/>
-
-| Talk Title | Conference | Year | Slides | Recording |
-|------------|------------|------|--------|-----------|
-| [TODO: Add talk title] | [TODO] | [TODO] | [Slides] | [Video] |
-| [TODO: Add talk title] | [TODO] | [TODO] | [Slides] | [Video] |
-
-*I find that preparing a conference talk is one of the most effective ways to deeply understand a topic. The feedback loop from presenting to engineers who think differently is irreplaceable.*
-
-</details>
-
----
-
 ## 🧪 Experiments
 
 <details>
