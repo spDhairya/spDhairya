@@ -843,8 +843,6 @@ I'm always happy to talk about distributed systems, AI infrastructure, security 
 
 </div>
 
-> *Good questions are always welcome. Recruiters: please read the README first — it'll make our conversation more interesting.*
-
 ---
 
 <details>
