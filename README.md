@@ -358,24 +358,6 @@ graph TD
 
 ---
 
-## 🎙 Podcast Projects
-
-<details>
-<summary><b>Podcasts I've appeared on or am planning</b></summary>
-
-<br/>
-
-| Podcast | Episode | Topic | Status |
-|---------|---------|-------|--------|
-| [TODO: Add podcast name] | [TODO] | [TODO] | 🎙 Recorded |
-| [TODO: Add podcast name] | [TODO] | [TODO] | 📅 Upcoming |
-
-*Interested in discussing distributed systems, AI infrastructure, security, or platform engineering? [Get in touch →](#-contact)*
-
-</details>
-
----
-
 ## 🎥 Conference Talks
 
 <details>
