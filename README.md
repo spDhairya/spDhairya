@@ -106,9 +106,6 @@ The goal isn't just to build things that work — it's to build things that *kee
 
 Longer term, I want to contribute to the infrastructure layer that makes **trustworthy AI systems** possible at scale. The hard problems in AI aren't just model quality — they're reliability, observability, security, and alignment of the systems *around* the models.
 
-> *Target roles: Staff Software Engineer · Senior Staff Software Engineer*  
-> *Target companies: OpenAI · Anthropic*
-
 ---
 
 ## 🛰 Knowledge Graph
