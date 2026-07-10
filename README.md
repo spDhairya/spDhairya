@@ -33,8 +33,6 @@ Hey — I'm **Dhairya**. I'm a Principal Software Engineer at **Microsoft Securi
 
 I've been writing software professionally for **13+ years**, across domains including **distributed systems**, **cloud-native infrastructure**, **security engineering**, **identity**, and most recently **AI systems**. The common thread across all of it: I like understanding *why* systems fail, *how* they scale, and *what* makes them trustworthy.
 
-Right now I'm deepening my expertise in **AI infrastructure**, **agentic systems**, and **LLM observability** — because the intersection of reliable distributed systems and large-scale AI is where the most interesting engineering problems live.
-
 > *If you're hiring for Staff or Senior Staff roles focused on AI infrastructure, platform engineering, or distributed systems — let's talk.*
 
 ---
